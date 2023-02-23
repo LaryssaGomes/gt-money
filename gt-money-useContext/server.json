@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Desenvolcimento de app",
+      "price": 1000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-01-11T00:31:17.353Z",
+      "id": 3
+    },
+    {
+      "description": "Desenvolcimento de app",
+      "price": 5544,
+      "category": "transportr",
+      "type": "outcome",
+      "createdAt": "2023-02-23T15:36:46.022Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolcimento de app",
+      "price": 5666,
+      "category": "555",
+      "type": "outcome",
+      "createdAt": "2023-02-23T15:37:35.402Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolcimento de app",
+      "price": 6666,
+      "category": "Trabalho",
+      "type": "outcome",
+      "createdAt": "2023-02-23T15:38:15.223Z",
+      "id": 6
+    },
+    {
+      "description": "Desenvolcimento de app",
+      "price": 55,
+      "category": "55",
+      "type": "outcome",
+      "createdAt": "2023-02-23T15:39:10.913Z",
+      "id": 7
+    }
+  ]
+}
